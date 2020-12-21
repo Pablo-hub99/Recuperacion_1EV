@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recuperacion_1EV</string>
+    <string name="menu_gold">Menu gold</string>
+    <string name="menu_white">Menu white</string>
+    <string name="name">Name</string>
+    <string name="email">email</string>
+    <string name="phone">Phone</string>
+    <string name="select">Select</string>
+    <string name="use_phone">Use Phone</string>
+    <string name="use_email">Use Email</string>
+    <string name="contact">Contact</string>
+    <string name="edit">Edit</string>
+    <string name="delete">delete</string>
+    <string name="checked">Checked</string>
+    <string name="canceled">Canceled</string>
+</resources>

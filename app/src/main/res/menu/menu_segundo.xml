@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Check"
+        android:icon="@android:drawable/checkbox_on_background"
+        android:onClick="Check"
+        android:orderInCategory="40"
+        android:title="@string/checked"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/Cancel"
+        android:icon="@android:drawable/btn_dialog"
+        android:onClick="Cancel"
+        android:orderInCategory="60"
+        android:title="@string/canceled"
+        app:showAsAction="ifRoom" />
+
+
+
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recuperacion_1EV</string>
+    <string name="menu_gold">Menu dorado</string>
+    <string name="menu_white">Menu blanco</string>
+    <string name="name">nombre</string>
+    <string name="email">correo</string>
+    <string name="phone">telefono</string>
+    <string name="select">selecciona </string>
+    <string name="use_phone">Usar telefono</string>
+    <string name="use_email">Usar correo</string>
+    <string name="contact">Contacto</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Borrar</string>
+    <string name="checked">correcto</string>
+    <string name="canceled">cancelar</string>
+</resources>
